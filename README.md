@@ -1,6 +1,6 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+###[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+###[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
 **Languages I have used**
 
@@ -59,6 +59,6 @@
 </h1>
 
 -------
-Credits: [adamalston](https://github.com/adamalston)
+###Credits: [adamalston](https://github.com/adamalston)
 
-Last Edited on: 30/08/2020
+###Last Edited on: 30/08/2020
