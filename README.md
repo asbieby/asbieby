@@ -1,4 +1,12 @@
 
+<h1 align="center">Hi 👋, I'm Fachrizal Hasbi</h1>
+<h3 align="center">🌟🌟🌟 Freelance IT 🌟🌟🌟</h3>
+
+
+
+
+
+
 
 **Languages I have used**
 
