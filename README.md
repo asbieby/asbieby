@@ -3,14 +3,8 @@
 <h3 align="center">🌟🌟🌟 Freelance IT 🌟🌟🌟</h3>
 <br>
 <br>
-<br>
 
-
-
-
-
-
-**Languages I have used**
+<h3 align="center">🌟🌟🌟 Languages I have used 🌟🌟🌟</h3>
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -23,7 +17,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
 
-**Some of the technologies I have worked with**
+<h3 align="center">🌟🌟🌟 Some of the technologies I have worked with 🌟🌟🌟</h3>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
